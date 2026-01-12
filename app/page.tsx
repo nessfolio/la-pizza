@@ -1,11 +1,14 @@
 import { Container } from "@/components/shared";
+import { Title } from "@/components/shared/title";
 import Image from "next/image";
 
 export default function Home() {
   return (
     <main>
-      <Container>
-        <h1>Главная</h1>
+      <Container className="mt-8">
+        <Title text="Все пиццы" size="lg" className="font-extrabold" />
+
+        
       </Container>
     </main>
   );
