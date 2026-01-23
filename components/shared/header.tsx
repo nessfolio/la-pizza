@@ -24,8 +24,8 @@ export const Header = ({ className }: Props) => {
                 <div className='flex items-center gap-4'>
                     <Image src='/logo.png' alt='Logo' width={40} height={40}/>
                     <div>
-                        <h1 className={cn('text-2xl font-black uppercase', )}  >lala pizza</h1>
-                        <p className='text-sm text-gray-400 leading-3' >вкусней уже некуда</p>
+                        <h1 className={cn('text-2xl font-black', )}  >market.kg</h1>
+                        <p className='text-sm text-gray-400 leading-3' >выгодней уже некуда</p>
                     </div>
                 </div>
                 

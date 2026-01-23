@@ -12,7 +12,7 @@ const nunito = Nunito({
 
 
 export const metadata: Metadata = {
-  title: "La-Pizza",
+  title: "market.kg",
   description: "Home Page",
 };
 

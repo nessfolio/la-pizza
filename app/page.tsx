@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main>
       <Container className="mt-8">
-        <Title text="Все пиццы" size="lg" className="font-extrabold" />
+        <Title text="Все товары" size="lg" className="font-extrabold" />
 
         
       </Container>
